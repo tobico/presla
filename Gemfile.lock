@@ -1,0 +1,16 @@
+PATH
+  remote: ~/src/texty
+  specs:
+    texty (0.0.1)
+      ncursesw
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ncursesw (1.4.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  texty!
